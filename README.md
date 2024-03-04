@@ -1,7 +1,7 @@
 <h1 align="center">Oi 👋, eu sou Paulo Ponte</h1>
 <h3 align="center">Estudante de Analise e Ciência de Dados</h3>
 
-- 🌱 Atualmente estou aprendendo **Excel, SQL, Python, Power Bi e Estatística.**
+- 🌱 Possuo conhecimento em **Excel, SQL, Python, Power Bi, Metodologias de Mensuração, Estatística.**
 
 - 📫 Como chegar até mim: **pauloproacc272@gmail.com**
 
