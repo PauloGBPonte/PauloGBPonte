@@ -1,14 +1,25 @@
-<h1 align="center">Oi 👋, eu sou Paulo Ponte</h1>
-<h3 align="center">Estudante de Analise e Ciência de Dados</h3>
+## 👋 Sobre mim
 
-- 🌱 Tecnicas em **Excel, SQL, Python, Power Bi, Metodologias de Mensuração, Estatística para Análise e Ciência de Dados.**
+Sou Analista de Dados com foco em métricas, performance e apoio à tomada de decisão orientada por dados. Atuo na transformação de demandas de negócio em indicadores claros e acionáveis, apoiando líderes e times na leitura de resultados, acompanhamento de metas e avaliação de impacto.
 
-- 📫 Como chegar até mim: **pauloproacc272@gmail.com**
+Tenho experiência na construção de dashboards gerenciais, automação de relatórios e estruturação de análises que aumentam a visibilidade de performance e reduzem esforço operacional. Atualmente, aprofundo meus estudos em **Análise de Marketing Digital**, com foco em mensuração de resultados, definição de métricas estratégicas, avaliação de ROI e planejamento de mensuração de campanhas.
 
-<h3 align="left">Conecte comigo em:</h3>
-<p align="left">
-<a href="https://kaggle.com/paulo ponte" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="paulo ponte" height="30" width="40" /></a>
-</p>
+Meu interesse está em projetos onde dados são utilizados como ferramenta prática para resolver problemas reais de negócio, otimizar processos e apoiar decisões estratégicas.
 
-<h3 align="left">Linguagens e Ferramentas:</h3>
-<p align="left"> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+---
+
+## 🔎 Áreas de interesse
+- Análise de métricas e performance  
+- Marketing Analytics e mensuração de resultados  
+- Dashboards executivos e acompanhamento de KPIs  
+- Automação de relatórios e processos analíticos  
+- Storytelling com dados e geração de insights acionáveis  
+
+---
+
+## 📊 O que você encontrará neste repositório
+- Projetos de análise de dados aplicados a contextos reais  
+- Dashboards e estudos voltados à mensuração de performance  
+- Pipelines de dados e automações analíticas  
+- Análises exploratórias com foco em tomada de decisão  
+
