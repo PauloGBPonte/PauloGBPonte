@@ -27,10 +27,12 @@ Sou um entusiasta da cultura data-driven, focado em transformar dados brutos em 
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 📊 Minhas Estatísticas
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=PauloGBPonte&show_icons=true&theme=dracula)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=PauloGBPonte&layout=compact&theme=dracula)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=PauloGBPonte&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloGBPonte&layout=compact&theme=dracula&langs_count=6" alt="Linguagens mais usadas" height="180em" />
+</p>
 
 ---
 
